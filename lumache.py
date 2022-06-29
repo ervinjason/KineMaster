@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+KineMaster APK - Create. Edit. Share.
 """
 
 __version__ = "0.1.0"
