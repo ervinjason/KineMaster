@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+`Open Food Facts database <https://world.openfoodfacts.org/>`_
